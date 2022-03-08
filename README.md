@@ -1,9 +1,8 @@
-# How to deploy a Dash-R app to Heroku
+# Deploy a Dash-R app to Heroku
 
-This repo contains the necessary files for deploying a Dash-R app to Heroku.
-The deployed app is hosted here https://dashr-heroku-deployment-demo.herokuapp.com/.
+This is the IA for Anthea in DSCI532
 
-Steps to reproduce:
+Reference: Followed the steps to reproduce:
 
 1. `git clone git@github.com:UBC-MDS/dashr-heroku-deployment-demo.git`
 2. `cd dashr-heroku-deployment-demo`
