@@ -109,14 +109,6 @@ app$layout(
                 dccGraph(id='hist', 
                           style = list('height'= '350px', 'width'= '33%', 'display'= 'inline-block'),
                           config=list('displayModeBar'=FALSE)
-                          ),
-                dccGraph(id='hist2',
-                         style = list('height'= '350px', 'width'= '33%', 'display'= 'inline-block'),
-                         config=list('displayModeBar'=FALSE)
-                          ),
-                dccGraph(id='hist3',
-                         style = list('height'= '350px', 'width'= '33%', 'display'= 'inline-block'),
-                         config=list('displayModeBar'=FALSE)
                           )
               ), type = 'circle', color = '#B33951'
             )
